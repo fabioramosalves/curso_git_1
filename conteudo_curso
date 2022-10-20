@@ -1,2 +1,12 @@
 18 - Verificando alterações
 
+git status
+
+
+19 - Adicionando arquivos ao projeto
+
+git css/style.css
+
+Adicionando todos de uma vez
+git add . 
+
