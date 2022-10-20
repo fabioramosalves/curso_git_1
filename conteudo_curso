@@ -10,3 +10,31 @@ git css/style.css
 Adicionando todos de uma vez
 git add . 
 
+
+
+20 - Salvando alterações
+
+git commit -a -m "Mensagem do commit"
+
+
+
+21 - Enviando código para o repositório
+
+git push
+
+
+
+22 - Recebendo alterações
+
+git pull
+
+
+23 - Clonando repositório
+
+git clone <URL_REMOTE>
+
+
+
+24 - Removendo arquivos
+
+git 
